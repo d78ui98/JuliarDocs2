@@ -6,7 +6,9 @@ Juliar Future is Latest interation of Juliar programming language . It runs dire
 # Getting started with juliar
 
 ### Prequisites
- - java devlopment kit(JDK)
+
+ - Java devlopment Kit (JDK) can be downloaded from here -http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+ - JuliarCompiler.jar file can be downloaded from here - https://juliar.org/downloads.php
 
 
   
