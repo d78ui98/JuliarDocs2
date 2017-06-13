@@ -15,7 +15,19 @@ Juliar Future is Latest interation of Juliar programming language . It runs dire
  
  Click on the JuliarCompiler.jar after installing the Java devlopment kit. 
  This will directly start the juliar build-in IDE
+ ```/* 
+	Title: Untitled (0) 
+	Author: Juliar 
+	Date: 06/13/2017
+*/ 
+
+function main()= {
+	printLine("Hello World");
+}
+ ```
+ Inorder to run directly click on the play button or go to Run > Run Interpreter
  
+ ### Addition of 2 numbers
 
 
   
