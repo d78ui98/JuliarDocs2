@@ -24,7 +24,7 @@ function main()= {
  
  ### Addition of 2 numbers
  
- Inorder to add number we have to write in infix notation
+ Inorder to add number we have to write in prefix notation
  Meaning to perform `5 + 3` we have to write it as `+ 5 3`
  Example -
  ``` 
@@ -38,15 +38,15 @@ function main()= {
 
 you can execute juliar code by command line without using the Build-in IDE. 
 1. Open up a text editor. 
-2. Write the juliar code. Save the file is ``something.jrl``
+2. Write the juliar code. Save the file is **something.jrl**
 3. Open the command prompt in the same Directory/folder by right clicking on the Folder.
 4. Write the following in the command prompt
   ```
   java -jar JuliarCompiler.jar something.jrl
   ```
- 
- 
-
-
   
+# Basic Programming Syntax
+
+### 1.Comments
+ Comments can be added by using \/*\ opening and for closing \*/\
 
