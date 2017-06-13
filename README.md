@@ -15,12 +15,7 @@ Juliar Future is Latest interation of Juliar programming language . It runs dire
  
  Click on the JuliarCompiler.jar after installing the Java devlopment kit. 
  This will directly start the juliar build-in IDE
- ```/* 
-	Title: Untitled (0) 
-	Author: Juliar 
-	Date: 06/13/2017
-*/ 
-
+ ```
 function main()= {
 	printLine("Hello World");
 }
@@ -28,6 +23,16 @@ function main()= {
  Inorder to run directly click on the play button or go to Run > Run Interpreter
  
  ### Addition of 2 numbers
+ 
+ Inorder to add number we have to write in infix notation
+ Meaning to perform `5 + 3` we have to write it as `+ 5 3`
+ Example -
+ ``` function main()= {
+        int a = + 3 4;
+	printLine(a);
+}```
+ 
+ 
 
 
   
