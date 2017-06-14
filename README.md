@@ -61,6 +61,7 @@ you can execute juliar code by command line without using the Build-in IDE.
 ```
 ### 3. Functions
  Writing function in juliar is pretty straightfoward. You have to use the keyword function followed by the name of the function then an assignment operator(=) followed by opening and closing brackets. Here = sign copies the data of the stuff into a callable function.
+ main function acts as in entry point
  ```
  function main()= {
 	 int a = + 3 6;
