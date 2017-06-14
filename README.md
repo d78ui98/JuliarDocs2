@@ -48,5 +48,33 @@ you can execute juliar code by command line without using the Build-in IDE.
 # Basic Programming Syntax
 
 ### 1.Comments
- Comments can be added by using \/*\ opening and for closing \*/\
+ Comments can be added by using \/\* opening and for closing \*\/
+### 2. Data Types
+ Currently Juliar supports int, float, double, string, boolean
+### 3. Functions
+ Writing function in juliar is pretty straightfoward. You have to use the keyword function followed by the name of the function then an assignment operator(=) followed by opening and closing brackets.
+ ```
+ function main()= {
+	 int a = + 3 6;
+       print(a);
+ ```
+ ### 4. Classes
+ Juliar uses concept of classes to Encapsulate functions of similar type.Basic syntax of class is 
+ ```
+ class asdf ={
+       Somecode();
+ }
+ ```
+ ### 5. Loops
+ Loops are basically used to run a piece of code multiple time. Loops have a terminating condition. Basic syntax for while loop is-
+ ```
+  function main()={
+     int x = 0;
+     while(true) {
+     x = + x 1;
+     if(x==4){break;}
+     printLine(x);
+}
+}
+ ```
 
