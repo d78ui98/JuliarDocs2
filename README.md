@@ -51,8 +51,12 @@ you can execute juliar code by command line without using the Build-in IDE.
  Comments can be added by using \/\* opening and for closing \*\/
 ### 2. Data Types
  Currently Juliar supports int, float, double, string, boolean
+### 3. Printing on screen
+ In juliar we have `print` `printLine` for displaying stuff on the screen. 
+ `print ` - it is used to display text
+ ``printLine`` - it is used to display text and move to next line.
 ### 3. Functions
- Writing function in juliar is pretty straightfoward. You have to use the keyword function followed by the name of the function then an assignment operator(=) followed by opening and closing brackets.
+ Writing function in juliar is pretty straightfoward. You have to use the keyword function followed by the name of the function then an assignment operator(=) followed by opening and closing brackets. Here = sign copies the data of the stuff into a callable function.
  ```
  function main()= {
 	 int a = + 3 6;
@@ -77,4 +81,4 @@ you can execute juliar code by command line without using the Build-in IDE.
 }
 }
  ```
-
+### 
