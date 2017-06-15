@@ -86,4 +86,11 @@ you can execute juliar code by command line without using the Build-in IDE.
 }
 }
  ```
-### 
+# Juliar Text Editor
+Juliar future has its own built-in text Editor. We can write code, save files, run the .jrl files. This text editor is for those who are afraid of terminal and cmd. 
+It can be opened by double clicking the juliarCompiler.jar file. 
+
+
+You can run the .jrl files in one of 2 ways. 
+1. Press ctrl+Enter. this will run the program and display the output below
+2. Click on the play like button on the lower right corner of the TextEditor.
